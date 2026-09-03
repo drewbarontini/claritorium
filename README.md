@@ -10,10 +10,6 @@ Claritorium is a framework for cultivating coherence between what we believe, ho
 
 **Coherence is cultivated, not completed.**
 
-![Claritorium](assets/claritorium.png)
-
-The diagram shows the architecture as a living whole: three movements held within the conditions of clarity, with related Systems that develop understanding, embodiment, perspective, and value. These relationships are complementary, not a five-step pipeline.
-
 ## Core Movements
 
 **Direction → Reflection → Expression**
