@@ -84,6 +84,10 @@ Claritorium provides the coherent frame. KnowFlow develops understanding across 
 
 The Systems reinforce one another, but they do not map one-to-one onto Direction, Reflection, and Expression.
 
+## Agent Skills
+
+The [Skills repository](https://github.com/drewbarontini/skills) turns recurring methods from Claritorium and Equilio into portable, executable capabilities for compatible AI agents. Skills operationalize these Systems, Models, and Patterns; they do not replace the source material.
+
 ## Begin Simply
 
 Claritorium is intentionally tool-independent. It can live in Markdown, Notion, Obsidian, plain documents, notebooks, paper, or another medium. The architecture matters more than the software.
